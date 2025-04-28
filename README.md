@@ -6,7 +6,7 @@ title: "Welcome"
 <!-- Hero ------------------------------------------------------------------ -->
 ### 你好，Hi there 👋
 
-I’m **Ningyuan Xu**, a researcher assistant at the Institute of Fundamental & Frontier
+I’m **Ningyuan Xu**, a researcher assistant at the Institute of Fundamental and Frontier
 Sciences, UESTC.  
 
 Currently, I am studying in a cooperative undergraduate program between University of Electronic Science and Technology of China and the University of Glasgow, and I am expected to obtain a bachelor's degree in 2026. My undergraduate major was communication work. Currently, I am engaged in research related to surface and interface science at the Center for Materials Surface Science (CMSS) of the Institute of Fundamental and Frontier.
@@ -29,7 +29,6 @@ Currently, I am studying in a cooperative undergraduate program between Universi
 | Year | Position | Institution |
 |------|----------|-------------|
 | 2023- | Research Associate, Institute of Fundamental & Frontier Sciences | UESTC, Chengdu |
-| 2022- | Adjunct Lecturer | Sino-British College, Shanghai |
 
 ---
 
