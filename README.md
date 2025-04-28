@@ -41,4 +41,4 @@ Currently, I am studying in a cooperative undergraduate program between Universi
 
 > *“Nature’s surfaces inspire smart materials; algorithms let us see what the eye can’t.”*
 
-Feel free to reach out for collaboration or a chat over coffee.
+Feel free to reach out for collaboration or a chat!
