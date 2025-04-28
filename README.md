@@ -33,10 +33,9 @@ Currently, I am studying in a cooperative undergraduate program between Universi
 ---
 
 ## Interests
-- **Multiscale Wetting & Anti-fouling**
-- **Porous Micro-/Nano-structured Meshes**
-- **Machine Vision for Bio-recognition**
-- **Open-source Hardware & Reproducibility**
+- **Surface and Interface Science**
+- **Superhydrophobic surface and superhydrophilic surface**
+- **AI4Science**
 
 ---
 
