@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "University of Electronic Science and Technology of China"
-  uri              : # URL
+  uri              : "https://ningyuanxu0.github.io/ningyuanxu.github.io/"
   email            : "nyxu.work@outlook.com" 
   email            : "2022190906016@std.uestc.edu.cn" 
   email            : "2840141x@student.gla.ac.uk" 
@@ -40,14 +40,14 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-2545-4370"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Xu-Ningyuan?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/NingyuanXu0"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
