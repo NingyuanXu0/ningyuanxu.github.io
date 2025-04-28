@@ -6,12 +6,10 @@ title: "Welcome"
 <!-- Hero ------------------------------------------------------------------ -->
 ### 你好，Hi there 👋
 
-I’m **Ningyuan Xu**, a researcher at the Institute of Fundamental & Frontier
+I’m **Ningyuan Xu**, a researcher assistant at the Institute of Fundamental & Frontier
 Sciences, UESTC.  
-My lab investigates how *micro/nano-textured surfaces* interact with liquids,
-gases, and light, then leverages that knowledge to design breathable yet
-water-proof meshes, stimuli-responsive coatings, and intelligent sensing
-interfaces.
+
+Currently, I am studying in a cooperative undergraduate program between University of Electronic Science and Technology of China and the University of Glasgow, and I am expected to obtain a bachelor's degree in 2026. My undergraduate major was communication work. Currently, I am engaged in research related to surface and interface science at the Center for Materials Surface Science (CMSS) of the Institute of Fundamental and Frontier.
 
 ---
 
@@ -22,9 +20,6 @@ interfaces.
 - **Breathable Window Screen Against High-Velocity Droplet Penetration**  
   *Small* (2025) – bilayer Janus mesh that blocks 4.5 m s⁻¹ raindrops while
   maintaining airflow.
-- **Domain Generalization in Nematode Classification**  
-  *Computers & Electronics in Agriculture* (2023) – lightweight CNN with
-  12 % higher cross-domain accuracy.
 
 *Full list on the [Publications](/publications) page.*
 
