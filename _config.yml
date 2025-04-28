@@ -13,7 +13,7 @@ title                    : "Ningyuan Xu (徐宁远) "
 title_separator          : "-"
 name                     : &name "Ningyuan Xu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ningyuanxu0.github.io/ningyuanxu.github.io/"
+url                      : https://ningyuanxu0.github.io/nyxu.github.io/ # the base hostname & protocol for your site e.g. "https://ningyuanxu0.github.io/nyxu.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
